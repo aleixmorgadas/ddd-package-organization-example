@@ -1,11 +1,11 @@
-package dev.aleixmorgadas.dddfolderexample
+package dev.aleixmorgadas.dddpackageexample
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class DddfolderexampleApplication
+class DDDPackageExampleApplication
 
 fun main(args: Array<String>) {
-	runApplication<DddfolderexampleApplication>(*args)
+	runApplication<DDDPackageExampleApplication>(*args)
 }

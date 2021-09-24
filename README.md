@@ -1,0 +1,2 @@
+# DDD Package Organization Example
+

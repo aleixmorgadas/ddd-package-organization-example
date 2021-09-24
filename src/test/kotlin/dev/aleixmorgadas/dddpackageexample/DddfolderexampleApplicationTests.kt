@@ -1,10 +1,10 @@
-package dev.aleixmorgadas.dddfolderexample
+package dev.aleixmorgadas.dddpackageexample
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class DddfolderexampleApplicationTests {
+class DDDPackageExampleApplicationTests {
 
 	@Test
 	fun contextLoads() {

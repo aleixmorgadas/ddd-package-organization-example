@@ -1,1 +1,1 @@
-rootProject.name = "dddfolderexample"
+rootProject.name = "dddpackageexample"
